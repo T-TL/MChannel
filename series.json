@@ -1,8 +1,8 @@
 {
    "movies":[
       {
-         "seriestitle":"The Last Ship Season 1",
-         "cover":"https://cinema.msubmovie.com/wp-content/uploads/2020/04/The-Last-Ship.jpg",
+         "title":"The Last Ship Season 1",
+         "image":"https://cinema.msubmovie.com/wp-content/uploads/2020/04/The-Last-Ship.jpg",
          "listitem":[
             {
                "title":"The Last Ship Season 1 Epsoide 1",
