@@ -1,6 +1,6 @@
 {
   
-"ad_type":"facebook",
+"ad_type":"start_io",
   
 "v_code":"1",
   
@@ -10,7 +10,9 @@
   
 "f_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   
-"f_interstitial":"YOUR_PLACEMENT_ID",   
+"f_interstitial":"YOUR_PLACEMENT_ID",
+  
+"start_io":"206880230",
   
 "ps_link":"https://play.google.com/store/apps/details?id=com.acnewf.acnewf",
   
