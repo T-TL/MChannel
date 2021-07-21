@@ -1,50 +1,14 @@
 {
    "movies":[
       {
-         "title":"The Last Ship Season1",
+         "title":"Not Available",
          "image":"https://bit.ly/2TrbLpb",
-         "description":"Description",
-         "idm":"IDM6.5",
-         "credit":"Credit-Channel Myanmar",
+         "description":"",
+         "idm":"",
+         "credit":"",
          "listitem":[
             {
-               "title":"Epsoide 1",
-               "hd":"https://www.mediafire.com/file/kccfqoy2oot9vkr/AmazingFunny.mp4/file"
-            },
-            {
-               "title":"Epsoide 2",
-               "hd":"935690473495758"
-            },
-            {
-               "title":"Epsoide 3",
-               "hd":""
-            },
-            {
-               "title":"Epsoide 4",
-               "hd":""
-            },
-            {
-               "title":"Epsoide 5",
-               "hd":""
-            },
-            {
-               "title":"Epsoide 6",
-               "hd":""
-            },
-            {
-               "title":"Epsoide 7",
-               "hd":""
-            },
-            {
-               "title":"Epsoide 8",
-               "hd":""
-            },
-            {
-               "title":"Epsoide 9",
-               "hd":""
-            },
-            {
-               "title":"Epsoide 10",
+               "title":"",
                "hd":""
             }
          ]
