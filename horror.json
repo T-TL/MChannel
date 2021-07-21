@@ -1,24 +1,14 @@
 {
    "movies":[
       {
-         "title":"A Quiet Place Part II (2021)",
+         "title":"Yae Maw",
          "image":"https://bit.ly/2TrbLpb",
          "description":"",
-         "idm":"IDM7.5",
-         "credit":"Credit-Gold Channel",
-         "hd":"https://www.mediafire.com/file/kt3b7gy2969ksdo/A.Quiet.Place.Part.II.2020.1080p.WEBRip.x264-RARBG.mp4-muxed.mp4/file",
-         "sd":"https://www.mediafire.com/file/htf4it7ddllzrg0/A.Quiet.Place.Part.Ii.2020.1080P.Webrip.X264-Rarbg.Mp4-Muxed-1.mp4/file",
-         "fb":""
-      },
-      {
-         "title":"Hereditary (2018)",
-         "image":"https://bit.ly/2TrbLpb",
-         "description":"",
-         "idm":"IDM7.6",
-         "credit":"Credit-Channel Myanmar",
+         "idm":"",
+         "credit":"",
          "hd":"",
-         "sd":"",
-         "fb":"480603309708420"
+         "sd":"https://www.mediafire.com/download/zejhfqevuzz1rl9",
+         "fb":""
       }
    ]
 }
