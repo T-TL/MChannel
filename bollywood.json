@@ -1,33 +1,13 @@
 {
    "movies":[
       {
-         "title":"Tuesdays And Fridays (2021)",
+         "title":"Site Kar",
          "image":"https://bit.ly/2TrbLpb",
          "description":"",
-         "idm":"IMDB-4.5",
-         "credit":"Credit-Channel Myanmar",
-         "hd":"https://www.mediafire.com/file/3ae3fdicsfuwnv0/TandF.mp4/file",
-         "sd":"",
-         "fb":""
-      },
-      {
-         "title":"Jagga Jasoos (2017)",
-         "image":"https://bit.ly/2TrbLpb",
-         "description":"",
-         "idm":"IMDB-6.7",
-         "credit":"Credit-Channel Myanmar",
+         "idm":"",
+         "credit":"",
          "hd":"",
-         "sd":"",
-         "fb":"1005953353134793"
-      },
-      {
-         "title":"Thugs of Hindostan (2018)",
-         "image":"https://bit.ly/2TrbLpb",
-         "description":"",
-         "idm":"IMDB-4.1",
-         "credit":"Credit-Channel Myanmar",
-         "hd":"https://www.mediafire.com/file/sbdui6gyf3pk0gi/TOH.mp4/file",
-         "sd":"",
+         "sd":"https://www.mediafire.com/download/qskcljwbv7s95zg",
          "fb":""
       }
    ]
